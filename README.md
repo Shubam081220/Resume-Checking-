@@ -11,7 +11,7 @@ This repository contains a machine learning project focused on automating the re
 - [Modules & Libraries](#modules--libraries)
 - [Functionality of Application](#functionality-of-application)
 - [Tools & Technologies Used](#tools--technologies-used)
-- [Tech Innovations in Resume Screening](#tech-innovations-in-resume-checking)
+- [Tech Innovations in Resume Checking](#tech-innovations-in-resume-checking)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
