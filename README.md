@@ -1,17 +1,17 @@
-# Resume Screening
+# Resume Checking
 
-This repository contains a machine learning project focused on automating the resume screening process using Python. The primary goal is to develop a model that can efficiently and accurately evaluate resumes based on predefined criteria.
+This repository contains a machine learning project focused on automating the resume checking process using Python. The primary goal is to develop a model that can efficiently and accurately evaluate resumes based on predefined criteria.
 
 <img src="Cover.png" alt="resume cover">
 
 ## Table of Contents
 
-- [Why do we need Resume Screening?](#why-do-we-need-resume-screening)
+- [Why do we need Resume Checking?](#why-do-we-need-resume-checking)
 - [Introduction](#introduction)
 - [Modules & Libraries](#modules--libraries)
 - [Functionality of Application](#functionality-of-application)
 - [Tools & Technologies Used](#tools--technologies-used)
-- [Tech Innovations in Resume Screening](#tech-innovations-in-resume-screening)
+- [Tech Innovations in Resume Screening](#tech-innovations-in-resume-checking)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
@@ -21,7 +21,7 @@ This repository contains a machine learning project focused on automating the re
 - [License](#license)
 - [Contact](#contact)
 
-## Why do we need Resume Screening?
+## Why do we need Resume Checking?
 
 - For each recruitment, companies take out the resume, referrals and go through them manually.
 - Companies often received thousands of resumes for every job posting.
@@ -31,9 +31,9 @@ This repository contains a machine learning project focused on automating the re
 
 ## Introduction
 
-- Resume screening is the process of determining whether a candidate is qualified for a role based on their education, experience, and other information captured on their resume.
+- Resume checking is the process of determining whether a candidate is qualified for a role based on their education, experience, and other information captured on their resume.
 - It’s a form of pattern matching between a job’s requirements and the qualifications of a candidate based on their resume.
-- The goal of screening resumes is to decide whether to move a candidate forward – usually onto an interview – or to reject them.
+- The goal of checking resumes is to decide whether to move a candidate forward – usually onto an interview – or to reject them.
 
 ## Modules & Libraries
 
@@ -52,7 +52,7 @@ This repository contains a machine learning project focused on automating the re
 
 ## Functionality of Application
 
-Screening resumes usually involves a three-step process based on the role’s minimum and preferred qualifications. Both types of qualifications should be related to on-the-job performance. These qualifications can include:
+Checking resumes usually involves a three-step process based on the role’s minimum and preferred qualifications. Both types of qualifications should be related to on-the-job performance. These qualifications can include:
 - Work experience
 - Education
 - Skills and knowledge
@@ -61,9 +61,9 @@ Screening resumes usually involves a three-step process based on the role’s mi
 
 ## Tools & Technologies Used
 
-- Machine Learning and Artificial intelligence, along with text mining and natural language processing algorithms, can be applied for the development of programs (i.e. Applicant Tracking Systems) to automate the resume screening process.
+- Machine Learning and Artificial intelligence, along with text mining and natural language processing algorithms, can be applied for the development of programs (i.e. Applicant Tracking Systems) to automate the resume checking process.
 
-## Tech Innovations in Resume Screening
+## Tech Innovations in Resume Checking
 
 - Designed to meet the needs of recruiters that current technology can’t solve, a new class of recruiting technology called AI for recruitment has arrived.
 - AI for recruiting is an emerging category of HR technology designed to reduce — or even remove — time-consuming, administrative activities like manually screening resumes.
@@ -75,8 +75,8 @@ Screening resumes usually involves a three-step process based on the role’s mi
 To get started with the project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/anukalp-mishra/Resume-Screening.git
-cd Resume-Screening
+git clone https://github.com/Shubam081220/Resume-Checking.git
+cd Resume-Checking
 pip install -r requirements.txt
 ```
 ## Usage
@@ -110,6 +110,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 For any questions or inquiries, please contact:
 
-Anukalp Mishra
+Shubam Lunawat
 
-GitHub: anukalp-mishra
