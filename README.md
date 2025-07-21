@@ -2,7 +2,7 @@
 
 This repository contains a machine learning project focused on automating the resume checking process using Python. The primary goal is to develop a model that can efficiently and accurately evaluate resumes based on predefined criteria.
 
-<img src="Cover.png" alt="resume cover">
+<img src="Page.png" alt="resume cover">
 
 ## Table of Contents
 
